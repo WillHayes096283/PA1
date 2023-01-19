@@ -12,6 +12,8 @@ This class is an abstract class that declares data members and abstract methods 
 These classes are the concrete classes, they implement the abstract methods/operations of the Animal Class.
 
 ## Menu Interaction
-This program use menu driven interaction to interact with the list in various ways. 
+This program use menu driven interaction to interact with the list in various ways. Here is an image of said menu:
 
-<img src = ![Screenshot (1)](https://user-images.githubusercontent.com/97753129/213544423-279e049a-f0db-43ec-bdfc-d182259e790a.png)>
+![Screenshot (1)](https://user-images.githubusercontent.com/97753129/213544423-279e049a-f0db-43ec-bdfc-d182259e790a.png)
+
+
